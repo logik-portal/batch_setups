@@ -1,4 +1,4 @@
-#Action UV ST Map Template
+# Action UV ST Map Template
 
 Contributor: Michael Vaglienty
 
