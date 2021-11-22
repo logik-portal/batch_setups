@@ -1,1 +1,1 @@
-#Batch Setups from Logik Portal
+# Logik Portal Batch Setups
