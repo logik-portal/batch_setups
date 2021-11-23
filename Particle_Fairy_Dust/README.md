@@ -1,4 +1,4 @@
-# Fairy Dust
+# Particle Fairy Dust
 
 Contributor: Sinan Vural
 
